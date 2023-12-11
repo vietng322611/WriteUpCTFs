@@ -2,9 +2,9 @@
 # Đây là writeup của CyberClass ctf lần 2
 
 Lần này gồm có 3 challenges về 3 mảng khác nhau:
--Steganography
--Cryptography
--Forensic
+> - Steganography
+> - Cryptography
+> - Forensic
 
 ## Steganography challenge: POMERIAN
 Đề bài:
